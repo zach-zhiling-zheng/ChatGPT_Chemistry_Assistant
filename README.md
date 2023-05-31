@@ -13,7 +13,7 @@ ChatGPT Chemistry Assistant
 
 **Features**
 
-This tool includes the following main functions:
+_This text mining assistant includes the following main functions:_
 
 · Extraction of text from PDF files and its division into smaller chunks.
 
@@ -28,6 +28,47 @@ This tool includes the following main functions:
 · Selection of top similarity sections and their neighbors in the data.
 
 · Calculation of text token count using the tiktoken library.
+
+
+
+
+
+_This MOF Synthesis Assistant tool provides the following core functionalities:_
+
+· Extraction of synthesis information and embeddings from a CSV file.
+
+· Calculation of similarity scores.
+
+· Sorting of text segments based on their similarity scores.
+
+· Selection of top similar synthesis conditions from the sorted data.
+
+· Processing of multiple user questions to maintain a conversational context.
+
+· Use of the OpenAI API to generate text embeddings for user's questions based on the selected synthesis conditions.
+
+· Maintenance of a conversation history for better contextually accurate responses in a conversational interface.
+
+· A user-friendly conversational interface for asking questions related to MOF synthesis conditions.
+
+_This machine learning tool includes the following primary functions:_
+
+· Data Preprocessing: Reads, processes, and drops unused data columns from CSV file.
+
+· Feature Selection: Applies RFECV for robust feature selection.
+
+· Data Splitting: Splits data into training and testing sets with various sizes.
+
+· Hyperparameter Tuning: Performs tuning via RandomizedSearchCV for RandomForestClassifier.
+
+· Model Evaluation: Computes several performance metrics for each model configuration.
+
+· Optimal Model Selection: Selects the best performing model based on balanced accuracy.
+
+· Random Splits: Supports multiple random states for data splitting.
+
+· Reporting: Records all performance metrics in an organized format for model comparison.
+
 
 **Dependencies**
 
