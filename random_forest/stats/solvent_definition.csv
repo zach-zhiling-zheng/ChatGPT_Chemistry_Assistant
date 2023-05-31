@@ -1,0 +1,72 @@
+﻿CAS number,type_name,type,names,smiles,MW,density,mmol
+108-24-7,Acids,8,acetic anhydride,O=C(OC(=O)C)C,102.09,1.082,10.59849153
+7664-39-3,Acids,8,HF; Hydrofluoric acid,F,20.01,0.991,49.52523738
+7647-01-0,Acids,8,HCl; hydrochloric acid,Cl,36.46,1.0962,30.06582556
+16872-11-0,Acids,8,HBF4,[H+].[F-][B+3]([F-])([F-])[F-],87.81,1.84,20.95433322
+64-18-6,Acids,8,formic acid; FA; HCOOH,O=CO,46.03,1.22,26.50445362
+64-19-7,Acids,8,acetic acid; HAc; glacial acetic acid; AcOH; CH3COOH; HOAc,O=C(O)C,60.05,1.0446,17.39550375
+76-05-1,Acids,8,trifluoroacetic acid; TFA,O=C(O)C(F)(F)F,114.02,1.489,13.05911244
+65-85-0,Acids,8,Benzoic acid; HBA-H,O=C(O)C=1C=CC=CC1,122.12,Solid,8.188666885
+92-92-2,Acids,8,biphenyl-4-carboxylic acid,O=C(O)C=1C=CC(=CC1)C=2C=CC=CC2,198.22,Solid,5.044899606
+62-23-7,Acids,8,4-nitrobenzoic acid; HBA-4NO2,O=C(O)C1=CC=C(C=C1)N(=O)=O,167.12,Solid,5.98372427
+445-29-4,Acids,8,2-fluorobenzoic acid; 2-FBA,O=C(O)C=1C=CC=CC1F,140.11,Solid,7.137249304
+124-07-2,Acids,8,Octanoic acid,O=C(O)CCCCCCC,144.21,0.91,6.310242008
+112-05-0,Acids,8,nonanoic acid,O=C(O)CCCCCCCC,158.24,0.9052,5.720424671
+13598-36-2,Acids,8,H3PO3,O=P(O)O,82,1.65,20.12195122
+7697-37-2,Acids,8,HNO3; nitric acid,O=N(=O)O,63.01,1.55,24.59926996
+7664-93-9,Acids,8,H2SO4; Sulfuric Acid,O=S(=O)(O)O,98.08,1.8,18.35236542
+67-56-1,Alcohols,3,MeOH; Methanol; CH3OH,OC,32.04,0.81,25.28089888
+64-17-5,Alcohols,3,EtOH; ethanol; C2H5OH,OCC,46.07,0.789,17.12611244
+71-23-8,Alcohols,3,1-propanol,CCCO,60.1,0.803,13.36106489
+67-63-0,Alcohols,3,2-propanol,OC(C)C,60.1,0.78505,13.06239601
+107-21-1,Alcohols,3,Ethylene Glycol; PEG-400,OCCO,62.07,1.1135,17.93942323
+96-20-8,Alcohols,3,2-Amino-1-butanol; (±)-2-amino-1-butanol,OCC(N)CC,89.14,0.9443,10.59344851
+156-87-6,Alcohols,3,3-Amino-1-propanol,OCCCN,75.11,0.9824,13.07948342
+71-36-3,Alcohols,3,n-butanol,OCCCC,74.12,0.8098,10.92552617
+108-39-4,Alcohols,3,m-Cresol,OC1=CC=CC(=C1)C,108.14,1.034,9.561679305
+100-51-6,Alcohols,3,benzenemethanol,OCC=1C=CC=CC1,108.14,1.0419,9.634732754
+123-91-1,"Amides, Sulfur-containing, and Cyclic Ethers",1,"1,4-Dioxane; dioxane",O1CCOCC1,88.11,1.0337,11.731926
+67-64-1,"Amides, Sulfur-containing, and Cyclic Ethers",1,acetone,O=C(C)C,58.08,0.7899,13.60020661
+80-73-9,"Amides, Sulfur-containing, and Cyclic Ethers",1,"DMI; N'N-Dimethyl-2-imidazolidinone; 1,3-Dimethyl-2-imidazolidinone",O=C1N(C)CCN1C,114.15,1.063,9.312308366
+6837-24-7,"Amides, Sulfur-containing, and Cyclic Ethers",1,CHP; 1-Cyclohexyl-2-pyrrolidone,O=C1N(CCC1)C2CCCCC2,167.25,0.01,0.059790732
+68-12-2,"Amides, Sulfur-containing, and Cyclic Ethers",1,DMF,O=CN(C)C,73.09,0.9445,12.92242441
+617-84-5,"Amides, Sulfur-containing, and Cyclic Ethers",1,DEF,O=CN(CC)CC,101.15,0.9057,8.95402867
+872-50-4,"Amides, Sulfur-containing, and Cyclic Ethers",1,NMP,O=C1N(C)CCC1,99.13,1.027,10.36013316
+67-68-5,"Amides, Sulfur-containing, and Cyclic Ethers",1,DMSO; dimethyl sulfoxide,O=S(C)C,78.13,1.1,14.07909894
+127-19-5,"Amides, Sulfur-containing, and Cyclic Ethers",1,"DMA; N,N-Dimethylacetamide; DMAc",O=C(N(C)C)C,87.12,0.9366,10.75068871
+123-39-7,"Amides, Sulfur-containing, and Cyclic Ethers",1,NMF; N-Methylformamide,O=CNC,59.07,0.9961,16.86304385
+109-99-9,"Amides, Sulfur-containing, and Cyclic Ethers",1,THF,O1CCCC1,72.11,0.8892,12.33116073
+120-93-4,"Amides, Sulfur-containing, and Cyclic Ethers",1,2-Imidazolidinone,O=C1NCCN1,86.09,1.114,12.93994657
+7664-41-7,Amines and Ammonium Compounds,6,ammonia,N,17.03,0.7,41.10393423
+74-89-5,Amines and Ammonium Compounds,6,CH3NH2; methylamine,NC,31.06,0.6624,21.32646491
+124-40-3,Amines and Ammonium Compounds,6,dimethylamine,N(C)C,45.08,0.6804,15.0931677
+121-44-8,Amines and Ammonium Compounds,6,triethylamine; TEA,CCN(CC)CC,101.19,0.7255,7.169680798
+2052-49-5,Amines and Ammonium Compounds,6,tetrabutylammonium hydroxide; TBAH; TBAOH,[OH-].CCCC[N+](CCCC)(CCCC)CCCC,259.47,Solid,3.854010098
+64-20-0,Amines and Ammonium Compounds,6,tetramethylammonium bromide,[Br-].C[N+](C)(C)C,154.05,Solid,6.491398896
+77-98-5,Amines and Ammonium Compounds,6,tetraethylammonium hydroxide,[OH-].CC[N+](CC)(CC)CC,147.26,Solid,6.790710308
+12125-01-8,Amines and Ammonium Compounds,6,Ammonium fluoride; NH4F,F[NH4],37.04,Solid,26.99784017
+143314-16-3,Amines and Ammonium Compounds,6,1-ethyl-3-methylimidazolium tetrafluoroborate,[F-][B+3]([F-])([F-])[F-].C1=C[N+](=CN1C)CC.,197.97,Solid,5.051270395
+65039-09-0,Amines and Ammonium Compounds,6,1-Ethyl-3-methylimidazolium chloride; [emi]Cl; 1-ethyl-3-methylimidazolium,[Cl-].C1=C[N+](=CN1C)CC,146.62,1.435,9.78720502
+8012-01-9,Base,7,NaOH; sodium hydroxide,[Na]O,40,Solid,25
+26628-22-8,Base,7,NaN3,[N-]=[N+]=N[Na],65.01,Solid,15.38224888
+1310-65-2,Base,7,LiOH; Lithium hydroxide,[Li]O,23.95,Solid,41.75365344
+1310-58-3,Base,7,KOH; Potassium Hydroxide,[K]O,56.11,Solid,17.82213509
+7681-49-4,Base,7,NaF; sodium fluoride,[F-].[Na+],41.99,Solid,23.81519409
+19018-24-7,Heterocyclic Compounds,5,2-(1-hydroxyethyl) benzimidazole; 2-(1-hydroxyethyl)benzimidazole,CC(C1=NC2=CC=CC=C2N1)O,162.19,1.285,7.922806585
+280-57-9,Heterocyclic Compounds,5,"1,4-Diazabicyclo[2.2.2]octane; DABCO",N12CCN(CC1)CC2,112.17,1.14,10.16314523
+366-18-7,Heterocyclic Compounds,5,"4,4′-Bipyridine; bpy; bipy; 4,4'-bpy; 4,4'-bipyridine; 4,4′-dipyridine",N=1C=CC=CC1C=2N=CC=CC2,156.18,Solid,6.402868485
+"	290-37-9",Heterocyclic Compounds,5,pyz; pyrazine,N=1C=CN=CC1,80.09,1.03,12.8605319
+110-85-0,Heterocyclic Compounds,5,piperazine,N1CCNCC1,86.14,1.1,12.76990945
+110-91-8,Heterocyclic Compounds,5,morpholine,O1CCNCC1,87.12,1.00007,11.47922406
+110-86-1,Heterocyclic Compounds,5,pyridine; py,N=1C=CC=CC1,79.1,0.98272,12.42376738
+290-87-9,Heterocyclic Compounds,5,s-Triazine,N=1C=NC=NC1,81.08,0.9418,11.61568821
+36951-72-1 ,Heterocyclic Compounds,5,meso-tetra(N-methyl-4-pyridyl) porphine tetratosylate; TMPyP,O=S(=O)([O-])C1=CC=C(C=C1)C.N1=C2C=CC1=C(C3=CC=[N+](C=C3)C)C4=CC=C(N4)C(=C5N=C(C=C5)C(C6=CC=[N+](C=C6)C)=C7C=CC(N7)=C2C=8C=C[N+](=CC8)C)C=9C=C[N+](=CC9)C,1363.61,Solid,0.733347511
+14937-45-2,Hydrocarbons and Derivatives,4,hexadecyltributylphosphonium bromide; tributyl(hexadecyl)phosphanium,[Br-].CCCCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC,507.65,Solid,1.969861125
+71-43-2,Hydrocarbons and Derivatives,4,benzene,C=1C=CC=CC1,78.11,0.8787,11.24951991
+108-88-3,Hydrocarbons and Derivatives,4,toluene,C=1C=CC(=CC1)C,92.14,0.8636,9.372693727
+108-90-7,Hydrocarbons and Derivatives,4,chlorobenzene,ClC=1C=CC=CC1,112.56,1.1058,9.824093817
+106-42-3,Hydrocarbons and Derivatives,4,p-xylene,C=1C=C(C=CC1C)C,106.17,0.86104,8.110012245
+75-05-8,Hydrocarbons and Derivatives,4,MeCN; Acetonitrile; ACN; CH3CN,N#CC,41.05,0.78745,19.18270402
+75-09-2,Hydrocarbons and Derivatives,4,CH2Cl2; DCM; DICHLOROMETHANE,ClCCl,84.93,1.3255,15.60697045
+7732-18-5,Water and derivatives,2,H2O; water; deionized H2O; DI water,O,18.02,1.00293,55.65649279
+7722-84-1,Water and derivatives,2,H2O2,OO,34.01,1.4425,42.41399588
