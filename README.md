@@ -1,6 +1,8 @@
 # ChatGPT_Chemistry_Assistant
 ChatGPT Chemistry Assistant
 
+Please check out https://arxiv.org/abs/2306.11296 for more details
+
 **Contents** 
 
 · Text Mining: PDF Text Processing and Analysis with OpenAI's _gpt-3.5-turbo_ API
