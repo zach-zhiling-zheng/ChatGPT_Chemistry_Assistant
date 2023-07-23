@@ -1,8 +1,11 @@
 # ChatGPT_Chemistry_Assistant
 ChatGPT Chemistry Assistant
 
-Please check out https://arxiv.org/abs/2306.11296 for more details
-If you find this work helpful to your research, please kindly cite Zheng, Z.;  Zhang, O.;  Borgs, C.;  Chayes, J. T.; Yaghi, O. M., ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis. arXiv preprint arXiv:2306.11296 2023. Thank you!
+Please check out https://arxiv.org/abs/2306.11296 for more details.
+
+If you find this work helpful to your research, please kindly cite 
+Zheng, Z.;  Zhang, O.;  Borgs, C.;  Chayes, J. T.; Yaghi, O. M., ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis. arXiv preprint arXiv:2306.11296 2023. 
+Thank you!
 
 **Contents** 
 
