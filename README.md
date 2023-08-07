@@ -1,17 +1,19 @@
 # ChatGPT_Chemistry_Assistant
 ChatGPT Chemistry Assistant
 
-Please check out https://arxiv.org/abs/2306.11296 for more details.
+Please check out https://pubs.acs.org/doi/10.1021/jacs.3c05819 for more details.
+
+Step-by-step illustrations of setting up Processes 1, 2, and 3 were shown in the Supporting Information file of this article in the cookbook style.
 
 If you find this work helpful to your research, kindly consider citing the following: 
 
-Zheng, Z.;  Zhang, O.;  Borgs, C.;  Chayes, J. T.; Yaghi, O. M., ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis. arXiv preprint arXiv:2306.11296 2023. 
+Zheng, Z.;  Zhang, O.;  Borgs, C.;  Chayes, J. T.; Yaghi, O. M., ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis. J. Am. Chem. Soc. 2023. (DOI: 10.1021/jacs.3c05819)
 
 Thank you!
 
 **Contents** 
 
-· Text Mining: PDF Text Processing and Analysis with OpenAI's _gpt-3.5-turbo_ API
+· Text Mining: PDF Text Processing and Analysis with OpenAI's _gpt-3.5-turbo_ API or  _gpt-4_ API
 
 · MOF Chatbot: a chatbot answers question based on post text mining data
 
